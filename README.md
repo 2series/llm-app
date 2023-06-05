@@ -77,5 +77,4 @@ Then, define a custom function called generate_response(). This function takes a
 
 Finally, use st.form() to create a text box (st.text_area()) for users to provide a prompt input. When the user clicks the "Submit" button, the generate_response() function is called with the prompt input variable (text) as an argument. The AI-generated content is then displayed.
 
-Congratulations! Your app is now deployed.
 
